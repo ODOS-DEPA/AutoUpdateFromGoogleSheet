@@ -92,6 +92,7 @@ async function data_transfering(fileBuffer) {
 // crontab : 0 0,12 * * * > update at midnight and noon
 // MAIN execution
 async function main() {
+  console.log("initialize Auto upload Now !")
   cron.schedule("0 0,12 * * *", async () => { // <-- async ที่นี่
     let now = new Date();
     console.log("Current time : ", now.toLocaleTimeString());
