@@ -9,7 +9,7 @@ const sheetId = "1lzPLvx1PDQ9gG2xSPm_SeA7Js23qIv8ycuPnbIN5xhw";
 
 // Authenticate using service account
 const auth = new google.auth.GoogleAuth({
-  keyFile: "./odos-470204-b0ff22e70862.json",
+  keyFile: "./odos-google.json",
   scopes: ["https://www.googleapis.com/auth/spreadsheets.readonly"],
 });
 
