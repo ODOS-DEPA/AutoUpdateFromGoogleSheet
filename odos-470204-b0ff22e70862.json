@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "odos-470204",
+  "private_key_id": "b0ff22e708622ba29586e38322b97405e40b01a0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCDfBPB71piljUJ\nAcWUWSKccPS5XPrzPbNvgIXwscFIT5DWgWP0Ippq0+J/x64PBTNDx3E8cfPNpULa\nTMQVFP5tEs5+uMFAXhyewmyLpYk/Z0UAOv8tQE+VCMpBvS/bRU8JEb4aQrbVTKDp\nx26JdS7xKiJBSlVH6xz9TQAR0ZNbkwa97D70vaQuS9bWIz0mm2/z+ClB8Z1hdocM\nmm+muzLfcffkrTKhc1X4jAIuNaU0QmFcoy69KB6XNbL342inMq9Z8ZHuD0FfqwLr\nxOBOuat9eDA1n1JBdxxqB356l2ZCGc3U58sN14NWMMN/a098G+1cuHqLKSpBcG0e\nVAwznn2PAgMBAAECggEAB50gu8MzdbADBDGBEnUS5wI3eaBju8Af6t4DY4u3iItq\n9LDra9CxJmx8mi+i6aXAcTVUXk6u8oKWW3PEiv/7N6+2G2pxblvExoC1rmR4jR5a\nxYelDSbDNPscUzA0XDsoN3s6ieTBF5rnWoI86WLKxBZPg35db9uygwx5a466PLwy\nkTp2kFog6LmaZnczYnQSFfGCm0DD/PjBrcRJVcfvL1TJL0WIexJQHlQe1I4dS7Yn\ncqESqRRCJgNzonwzjvM9ERQSHKvZMfAEi6TJ4A3oSKfohYK8OglQRyQ0t+086/VA\nrAOwWMrp4UdeUAGmPZIxlJDSzdvYLReN+3NQ7oHw2QKBgQC33EiHHDf4kzyH3uRA\nT7PmDio3FpB+GqaAEJYmnc9gKCW+AFh2FhBnll01RcM6/CntMmYk8GjeVKRPBc6r\nCUmVcEGhMDUZgfDuAtTmJa8qms11GZOzYPUKCBFoXGSeg9g9gD2dkm2ZQBR85fSF\n3xHMpGhCMUtDT1S87PZXu3vHowKBgQC3EvLcA+r5MPuI+W581D4vTT5cKSDRt/Sc\n1shgXtfs8F5WWt9PbOjjaYT//rYm6JnCKP00SZ2kWSAnTk5Yn4sQlRYxUMbN9ctz\n+tvFwbYXerPTXan12D3rOg+6xaFJC54j13CcwQMQdN78Gfj2l65gNqIn2HCvxSHj\nqY36gHEBJQKBgE9SN/AiWnthejHcFXkxaZmM7uWJVJkzAjYp8b2DQ95mM7I/D+sS\nJc2q71d2W33tIGF25t504alZtvFovfrILPjNz2KtG5t/leP5UMRh6apl0tH8UN6I\nq+7CAFCX28kPdJFD7FE4xRPis3QW+WFwFYvGOjyka6YEabiAOt8qwYIlAoGAdMNi\nIA9jo3GpTFCCNp2L19F1T4RvyTKBkjKu9EApiZY5JOyqdtbopnqbeEa1WJWL07ke\n3WWCZNrvVgJsl7uSD4527Bcv5Ra6n4tE9pk5ETqSTOH1T7aOr2OFusLnvlXpk8SJ\nr4Cu+qT/v1y1XFmbvwO5Yp56KLEbjz+KLVYUPP0CgYBarT4p0morjDO7JkQsxBGj\n29lnAn/8lywwSkx8GmEiIbvfh9H2dTb9MZoJWcfiQw8+DPPMMcfdgc8sRNGSnW+1\nrkqobFhr2SOWNSi/LMI0ZxJB5uo30ihW7ozrGYktSdrbOJbxjiFYEKAv7t87fo2X\nwFKaeRAZLuphZJATk09z+g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "odos-auto-insert-stdu@odos-470204.iam.gserviceaccount.com",
+  "client_id": "116538129216507578371",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/odos-auto-insert-stdu%40odos-470204.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

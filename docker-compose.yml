@@ -1,0 +1,12 @@
+version: "3.9"
+services:
+  app: 
+    image: node:20
+    container_name: Auto_Update_ODOS_STDU
+    working_dir: /app
+    volumes:
+      - .:/app
+    environment:
+      - TZ=Asia/Bangkok
+    command: node main.js
+    restart: unless-stopped
