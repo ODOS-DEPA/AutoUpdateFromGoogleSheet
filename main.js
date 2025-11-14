@@ -95,8 +95,18 @@ async function main() {
   console.log("initialize Auto upload Now !")
   cron.schedule("0 0,12 * * *", async () => { // <-- async ที่นี่
     let now = new Date();
-    console.log("Current time : ", now.toLocaleTimeString());
-
+    console.log(
+                  now.toLocaleString("th-TH", {
+                    weekday: "long",
+                    year: "numeric",
+                    month: "long",
+                    day: "numeric",
+                    hour: "2-digit",
+                    minute: "2-digit",
+                    second: "2-digit",
+                    hour12: false
+                  })
+                );
     try {
       const xlsxBuffer = await exportSheetToXLSX();
       if (xlsxBuffer) {
