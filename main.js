@@ -93,7 +93,7 @@ async function data_transfering(fileBuffer) {
 // MAIN execution
 async function main() {
   console.log("initialize Auto upload Now !")
-  cron.schedule("0 0,12 * * *", async () => { // <-- async ที่นี่
+  cron.schedule("30 17 * * *", async () => { // <-- async ที่นี่
     let now = new Date();
     console.log(
                   now.toLocaleString("th-TH", {
